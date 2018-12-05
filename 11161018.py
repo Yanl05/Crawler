@@ -1,0 +1,5 @@
+x = set('hello')
+y = set('world')
+print(x - y)
+z = frozenset('hello gg')
+print(z)
